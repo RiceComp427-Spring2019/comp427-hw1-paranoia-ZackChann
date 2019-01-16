@@ -11,9 +11,9 @@ and will be rendered to beautiful HTML when you visit your GitHub repo.
 ## Student Information
 Please also edit _README.md_ and replace your instructor's name and NetID with your own:
 
-_Student name_: Dan WALLACH
+_Student name_: Yuzhou Chen
 
-_Student NetID_: dwallach
+_Student NetID_: yc109
 
 Your NetID is typically your initials and a numeric digit. That's
 what we need here.
@@ -22,15 +22,17 @@ _If you contacted us in advance and we approved a late submission,
 please cut-and-paste the text from that email here._
 
 ## Problem 1
-- Scenario: {Stadium|TSA|Documents|Grading|G20}
+- Scenario: G20
 - Assumptions:
   - explain_your_assumptions
 - Assets:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+   - presidents (or prime ministers, chancellors).
+   - other people attending the summit
+   - some important documents that may present in the summit
+   - some 
 - Threats:
-  - explanatory_paragraph 
-  - explanatory_paragraph ...
+  - terroists may plan to attack the summit to create panic and chaos. They may attack by setting some bomb, mass shooting, posioning 
+  - 
 - Countermeasures:
   - explanatory_paragraph
   - explanatory_paragraph ...
