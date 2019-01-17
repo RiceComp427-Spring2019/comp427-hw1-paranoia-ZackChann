@@ -29,13 +29,15 @@ please cut-and-paste the text from that email here._
    - presidents (or prime ministers, chancellors).
    - other people attending the summit
    - some important documents that may present in the summit
-   - some 
 - Threats:
   - terroists may plan to attack the summit to create panic and chaos. They may attack by setting some bomb, mass shooting, posioning 
-  - 
+  - some people may want to hurt attendee, because they are disappointed with him.
+  - some people may just be crazy and want to hurt someone in front of many people.
+  - spies may want to get access to some important documents.
 - Countermeasures:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+  - set up cameras that cover every corners of the place, and hire some people to watch the cctv and patrol around the place. This may need a lot of money to hire professional security guards, but this helps prevent lots of threats.
+  - hire people to oversee food preparing, food making and every possible procedures. This may need a lot of money to hire professional security guards, but this helps prevent lots of threats.
+  - security check for all people entering the place. This may slow the speed of people entering the place. But it can prevent weapons from entering the place.
 
 ## Problem 2
 - Scenario: {Stadium|TSA|Documents|Grading|G20}
